@@ -16,7 +16,7 @@ Output: 'evaluation.csv' with 5 columns (cf. first three columns filled with inp
             a given time tolerance (threshold) of the manually labeled boundaries.
 
 
-Usage:  $ python3 evaluateFA.py fa.TextGrid human.TextGrid 30
+Usage:  $ python evaluateFA.py fa.TextGrid human.TextGrid 30
 
 
 Yejin Cho (scarletcho@gmail.com)
